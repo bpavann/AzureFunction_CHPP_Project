@@ -6,7 +6,6 @@ import os
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.FUNCTION)
 
-@app.function_name(name="predict_price")
 @app.route(route="predict", methods=["GET", "POST"])
 def result_page(req: func.HttpRequest) -> func.HttpResponse:
     try:
