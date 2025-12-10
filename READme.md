@@ -45,6 +45,7 @@ Users can input property features through a simple web interface, submit the val
 | Dataset          | California Housing      |
 
 ## Web Interface + Prediction Output
-![DocentAI](https://github.com/bpavann/DocENT.AI/blob/main/images/AF-2.png)
+![DocentAI](https://github.com/bpavann/AzureFunction_CHPP_Project/blob/main/images/AF-1.png)
+
 ## Azure Deployment (VS Code)
-![DocentAI](https://github.com/bpavann/DocENT.AI/blob/main/images/AF-1.png)
+![DocentAI](https://github.com/bpavann/AzureFunction_CHPP_Project/blob/main/images/AF-2.png)
